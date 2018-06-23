@@ -1,4 +1,4 @@
-package eu.luminis.poc;
+package eu.luminis.poc.util;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
