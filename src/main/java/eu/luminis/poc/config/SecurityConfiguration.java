@@ -1,6 +1,6 @@
-package eu.luminis.dataSamplerPOC.config;
+package eu.luminis.poc.config;
 
-import eu.luminis.dataSamplerPOC.user.MongoUserDetailsService;
+import eu.luminis.poc.user.MongoUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

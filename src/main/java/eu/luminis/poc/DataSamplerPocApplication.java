@@ -1,9 +1,8 @@
-package eu.luminis.dataSamplerPOC;
+package eu.luminis.poc;
 
-import eu.luminis.dataSamplerPOC.user.Role;
-import eu.luminis.dataSamplerPOC.user.User;
-import eu.luminis.dataSamplerPOC.user.UserRepository;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import eu.luminis.poc.user.Role;
+import eu.luminis.poc.user.User;
+import eu.luminis.poc.user.UserRepository;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.boot.CommandLineRunner;

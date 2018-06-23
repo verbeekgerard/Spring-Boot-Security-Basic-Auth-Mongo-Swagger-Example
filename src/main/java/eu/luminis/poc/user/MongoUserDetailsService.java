@@ -1,4 +1,4 @@
-package eu.luminis.dataSamplerPOC.user;
+package eu.luminis.poc.user;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

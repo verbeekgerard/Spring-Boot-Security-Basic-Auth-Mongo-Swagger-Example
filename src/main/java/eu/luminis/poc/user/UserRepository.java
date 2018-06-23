@@ -1,4 +1,4 @@
-package eu.luminis.dataSamplerPOC.user;
+package eu.luminis.poc.user;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 

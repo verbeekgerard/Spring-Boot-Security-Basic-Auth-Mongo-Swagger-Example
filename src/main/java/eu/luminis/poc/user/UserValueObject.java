@@ -1,4 +1,4 @@
-package eu.luminis.dataSamplerPOC.user;
+package eu.luminis.poc.user;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package eu.luminis.dataSamplerPOC;
+package eu.luminis.poc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
